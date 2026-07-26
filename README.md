@@ -51,25 +51,6 @@ Tools & Databases:
 
 
 
-My Automation Projects 🚀
-
-Here are some of my key automation projects:
-
-•
-OpenCart_Application_with_Hydrid_framwork: A comprehensive Hybrid Test Automation Framework for an OpenCart application, built with Java, Selenium WebDriver, TestNG, Maven, Page Object Model (POM), Data-Driven Testing, Parallel Execution, and Extent Reports.
-
-•
-Automation_FrameWork: A foundational project demonstrating the use of a Hybrid Framework for creating and developing multiple test scripts.
-
-•
-Selenium: A repository showcasing various Selenium WebDriver implementations and test automation practices using Java.
-
-•
-TestProject: A collection of test automation projects, primarily in Java, demonstrating practical application of testing principles.
-
-
-
-
 Connect with me:
 
 <p align="left">
